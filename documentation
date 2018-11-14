@@ -1,0 +1,59 @@
+Project: Happy Hardcore Video Search
+How it works + What does it do?:
+ > 3 different search boxes to type in what you want to search: Song Title, Artist & Album 
+ > Simple search engine mechanics used
+
+Reasons for making it:
+
+
+Journal Catalog:
+Week 9: Planning to join Jun Bang’s group. Details were still volatile
+
+Week 10: Decided to put Jun Bang’s group as backup. Managed to join Darius’ group.
+Plan: To create a mobile app for scooters that tracks speed of scooter and gives warnings
+and even fines for speeding offences.
+
+Week 11:
+•	Darius puts down group project, me back to solo again.
+•	Desperately looking through Final Project Excel Sheet to find solo person to partner with
+•	Tried Li Li’s group for tracking expenditure, doesn’t work out.
+
+Week 12:
+•	Jun Bang’s group also not possible due to complexity of project.
+•	Given up on life. So tired with eye infection affecting mood.
+•	Decided to give up on team and do solo
+
+Week 13:
+14/11/18:
+•	Initial idea: Search Engine for Happy Hardcore music
+•	10:30 am - 12 pm
+  > Went to Dennis to get started. (Had nothing to start with)
+  > Downloaded Sublime Text Portable
+	> Quick review of files and coding in html + other media (java, css etc.)
+  > Made text appear on screen to represent different sections to search by (song, artist, album)
+	> Made personal logo to be displayed above search bars, which were also created. 
+  
+•	1 pm - 3 pm
+ > Created search engines in the website
+ > Modificaations to allow refresh of results list, widening of columns and shifting of
+ text to make the list look neater
+ > Inputted links in songs to send user to YouTube video with song
+ > Initial Product done! Now for minor modifications/touch-ups.
+
+• 3 pm - 4 pm
+ > Progressively adding more songs to the list
+ > Added title "Happy Hardcore Search" in big font.
+ Tried for an anagram but failed.
+ > Thought of alphabetical sorting of results list.
+ Sorted elements  in database instead to compensate. (Priority list: Artist, Album, Song
+ Reasoning:
+ --> Searching by artist: Album sorting makes it easier to look for song.
+ --> Searching by album: Artist order will make is easy to look for song.
+ --> Searching by song: Negligible due to limited songs with similar word structure.
+ Overall reasoning: Most albums have only one song for each featured artist
+ > Squeezed main text with logo together to maximize space at top of browser
+
+• 4 pm - 6 pm
+ > Continuing adding songs to the list
+ > Finished adding J-neration 1 playlist
+ > Started on Documentation writing
