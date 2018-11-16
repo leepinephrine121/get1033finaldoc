@@ -1,0 +1,41 @@
+<html>
+
+<head>
+	<script src="mean.js"></script>
+	<link rel="stylesheet" type="text/css" href="colors.css">
+</head>
+
+<body>
+	<img id="mainpic" src="logo.png" /> 
+	<div id="maintext">
+		<h1> HAPPY HARDCORE SEARCH </h1>
+		<h2> The Best Of Japanese Techno Music</h2>
+	</div>
+	<br />
+	<form action="" onsubmit="return searchartist()">
+		<h3 id="artisthead"> Artist </h3>
+		<input type="text" name="artist" id="findartist"><br>
+		<input type="submit" value="Submit">
+	</form>
+	<form action="" onsubmit="return searchalbum()">
+		<h3 id="albumhead"> Album </h3>
+		<input type="text" name="album" id="findalbum"><br>
+		<input type="submit" value="Submit">
+	</form>
+	<form action="" onsubmit="return searchsong()">
+		<h3 id="songhead"> Song </h3>
+		<input type="text" name="soundtrack" id="findsong"><br>
+		<input type="submit" value="Submit">
+	</form>
+	<div id="results">
+		<table id="info">
+			<tr>
+				<th id="artistcol">Artist</th>
+				<th id="albumcol">Album</th>
+				<th id="songcol">Song</th>
+			</tr>
+		</table>
+	</div>
+</body>
+
+</html>

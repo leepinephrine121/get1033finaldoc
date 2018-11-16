@@ -1,0 +1,45 @@
+body {
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 3%;
+}
+
+form {
+	display: inline-block;
+	text-align: left;
+}
+
+#info {
+	text-align: left;
+}
+
+#songhead {
+	color: rgb(156,52,134);
+}
+
+#artisthead {
+	color: red;
+}
+#albumhead {
+	color: rgb(46,110,162);
+}
+
+#songcol {
+	width: 200px;
+}
+
+#artistcol {
+	width: 250px;
+}
+
+#albumcol {
+	width: 150px;
+}
+
+#mainpic {
+	display: inline-block;
+}
+
+#maintext {
+	display: inline-block;
+}
