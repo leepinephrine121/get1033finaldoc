@@ -65,6 +65,49 @@ Week 13:
  > Attempt to implement font that supports Chinese characters ended in failure
 
 16/11/18:
-• 8 am - 1:30 pm
+• 8 am - 2 pm
  > Finished adding all J-neration playlists
+ > Added Creative Commons copyright sign onto project
+ > Finished!
+ 
+Improvements/Features of Future versions:
+ > Change of font to allow Chinese characters to be seen
+ > For Albums & Artists, drop-down menus included
+ > More albums added to database, including those from countries other than Japan
+ > 3 search options that contain links that change what the 1 search box will be searching
+ > Box outlines for the results list
+ > Links above logo that take user to Jozu Music, a Happy Hardcore-centric Youtube channel.
+
+Video link (unlisted):
+	
+Critical Analysis:
+ > The project is simple, but it excels in its simplicity.
+ > The search bar system could be neater with the many search options clumped so close together.
+ > Same story goes for the results list with the different soundtrack links also so close together.
+ > Results list is well-sorted but could be better in terms of making it neat due to no
+ sense of borders in the table.
+ > Any chinese character is unrecognised and looks messy on the results list.
+ 
+COnnection to ideas learned:
+ > Implementation of Copyright showcases my rights to my own digital creation. (Digital Rights Management)
+ > Usage of github to present project (Week 11 Tutorial)
+ > Learning about making a search engine (Week 9 Tutorial Workshop)
+ 
+Affordances:
+ > Spatial: Search space is limited to 11 different songlists. Low
+ > Encyclopedic: Search engine looks through vast number of soundtracks created
+ by a vast number of artists. High
+ > Participlatory: Just search and find. Not much else to do. Low
+ > Procedural: Search, find and listen. Not much else. Medium
+ 
+Usage of new abilities of computers:
+ > Usage of several programming language (html, css, js) to create the website
+ > Usage of developer tools in Chrome to make it easier to amend the code
+ > Use of coding software (Sublime Text) that makes coding simpler and quicker
+ 
+Projects that this project builds on:
+ > Jozu Music: Also an encyclopedic engine that is filled with Happy Hardcore music
+ > Other YT channels that have uploaded such music
+ > All search engines in terms of the idea behind my own project
+ > Plain design choice similar to J-neration official website.
  
