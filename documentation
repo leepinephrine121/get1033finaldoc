@@ -78,7 +78,7 @@ Improvements/Features of Future versions:
  > Box outlines for the results list
  > Links above logo that take user to Jozu Music, a Happy Hardcore-centric Youtube channel.
 
-Video link (unlisted):
+Video link (unlisted): https://www.youtube.com/watch?v=LsoPhig58wo
 	
 Critical Analysis:
  > The project is simple, but it excels in its simplicity.
@@ -88,7 +88,7 @@ Critical Analysis:
  sense of borders in the table.
  > Any chinese character is unrecognised and looks messy on the results list.
  
-COnnection to ideas learned:
+Connection to ideas learned:
  > Implementation of Copyright showcases my rights to my own digital creation. (Digital Rights Management)
  > Usage of github to present project (Week 11 Tutorial)
  > Learning about making a search engine (Week 9 Tutorial Workshop)
@@ -111,3 +111,7 @@ Projects that this project builds on:
  > All search engines in terms of the idea behind my own project
  > Plain design choice similar to J-neration official website.
  
+ 
+As a side note, if I had more time and definitely more resources since I started from scratch with almost nothing to start with,
+my dream is to create a Pokemon fan game similar to Pokemon Insurgence, a fan game created by @the_suzerain. His game was my
+inspiration for such an idea. However, realizing my limits, I decided on this simple project instead.
